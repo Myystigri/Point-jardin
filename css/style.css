@@ -1,0 +1,109 @@
+body {
+	background-color: #EBECE4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#home {
+	margin-bottom: 40px;
+}
+
+.logo {
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	text-align: center;
+	padding-top: 20px;
+
+}
+
+li {
+	display: inline;
+	margin-left: 15px;
+	font-size: 20px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.activities {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.presentation {
+	border: 1px solid black;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: rgba(120, 185, 67, 0.5);
+}
+d
+h1 {
+	text-align: center;
+	color: #EBECE4;
+	text-shadow: 2px 2px 2px black;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px 2px black;
+}
+
+.ico {
+	margin-left: auto;
+	margin-right: auto;
+}
+nav {
+	text-align: center;
+	margin-left: -35px;
+}
+
+#footer-index {
+    color: white;
+    font-size: 13px;
+    text-align: center;
+    }
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.logos-index {
+  font-size: 13px;
+  text-align: center;
+  padding-bottom: 1px;
+}
+
+#zuckerberg {
+  margin-top: 10px;
+}
+
+#cheese {
+	margin-top: 10px;
+}
+#number {
+	text-decoration: underline;
+}
+
+.footer {
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(72, 69, 69, 1);
+}
+
+#actual {
+	background-color: rgba(0, 0, 0, 0);
+
+}
+
+.parts {
+	margin-top: 40px;
+}
