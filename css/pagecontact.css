@@ -1,0 +1,77 @@
+body {
+	background-color: #EBECE4;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.logo {
+	text-align: center;
+}
+
+h1 { 
+	color:#78B943;
+	text-align: left;
+
+}
+p {
+	text-shadow: 3px 0px 3px rgba(0, 0, 0, 0.2);
+	color: #78b943;
+	font-size: 20px;
+}
+
+.contact {
+	border: 9px solid #78B943 ;
+    
+}
+
+.style {
+
+     width: 8%;
+  
+     margin-left: 10px;
+
+}
+
+#footer-index {
+    color: white;
+    font-size: 13px;
+    text-align: center;
+    }
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.logos-index {
+  font-size: 13px;
+  text-align: center;
+  padding-bot: 1px;
+}
+
+#zuckerberg {
+  width: 3.5%;
+  margin-top: 10px;
+}
+
+#cheese {
+	width: 3.5%;
+	margin-top: 10px;
+}
+#number {
+	text-decoration: underline;
+}
+
+.footer {
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(72, 69, 69, 1);
+}
+
+#actual {
+	background-color: rgba(0, 0, 0, 0);
+
+}
