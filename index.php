@@ -19,13 +19,12 @@
 					<li><a href="#"><b>NOS PRODUITS</a></li></b>
 					<li><a href="#"><b>NOS SERVICES</a></li></b>
 					<li><a href="#"><b>QUI SOMMES NOUS?</a></li></b>
-					<li><a href="#"><b>CONTACT</a></li></b>
+					<li><a href="pagecontact.php"><b>CONTACT</a></li></b>
 				</ul>
 			</nav>
 			
 
 			<div class="activities">
-				
 				<div class="col-lg-offset-2 col-lg-8">
 					<div class="presentation">
 						<div class="cadre">
